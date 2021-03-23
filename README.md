@@ -1,18 +1,24 @@
 # todo-list
-Simple Todo list using ReactJS and Tailwind
+Simple Todo list using MERN and Tailwind
 
-# Getting Started with Create React App
+## Set up:
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+For client-side:
 
-## Available Scripts
+`cd client`
 
-In the project directory, you can run:
+`yarn`
 
-### `yarn start`
+`yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+For server-side:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+`cd server`
+
+`yarn`
+
+`yarn start`
+
+![Screen Shot 2021-03-23 at 11 50 05 PM](https://user-images.githubusercontent.com/57936463/112175804-81457b80-8c32-11eb-8705-7c8fee3f4a08.png)
+
+
